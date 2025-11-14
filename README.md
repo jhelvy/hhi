@@ -2,4 +2,4 @@ This Shiny app provides an interactive illustration of the [Herfindahl–Hirschm
 
 HHI is a measure of the size of firms in relation to the industry they are in and is an indicator of the amount of competition among them.
 
-The app itself was originlly created by Jake Springer (@JakeS2028) and is hosted on shinylive.io.
+The app itself was originlly created by Jake Springer ([@JakeS2028](https://github.com/JakeS2028)) and is hosted on shinylive.io.

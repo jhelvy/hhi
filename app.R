@@ -100,7 +100,6 @@ ui <- page_sidebar(
         success = "#27ae60",
         warning = "#f39c12",
         danger = "#e74c3c",
-        base_font = font_google("Inter"),
         "value-box-bg-gradient-blue-purple" = "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
         "value-box-bg-gradient-blue-cyan" = "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"
     ),
